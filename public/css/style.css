@@ -1,0 +1,17 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(19, 20, 14); background-color: rgb(226, 168, 43);}
+h1 {
+    font-style: italic; font-weight: bold;}
+.catito{
+    text-align: center;} 
+.cachoguito{
+    text-align:center;}
+    p{font-family: Arial;
+      font-size: 20px;
+      font-weight: bold;
+      font-style: italic;
+      text-decoration: underline;
+      text-align: center;  
+
+    }
